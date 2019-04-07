@@ -1,0 +1,15 @@
+{
+    "objects": [{
+        "properties": {
+            "enaio:objectTypeId": {
+                "value": "team"
+            },
+            "teamId": {
+                "value": 1
+            },
+            "teamName": {
+                "value": "amalgam"
+            }
+        }
+    }]
+}
