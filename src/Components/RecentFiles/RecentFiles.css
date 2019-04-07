@@ -1,0 +1,9 @@
+.RecentFiles_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+RecentFiles_container {
+    display: flex;
+    justify-content: space-around;
+}
